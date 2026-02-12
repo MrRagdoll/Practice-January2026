@@ -1,0 +1,5 @@
+requests==2.32.4
+pandas==2.0.3
+beautifulsoup4==4.13.4
+fake-useragent==1.5.1
+regex==2024.11.6
